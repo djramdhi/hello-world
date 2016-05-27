@@ -1,5 +1,5 @@
-# hello-world
-just another repository
+# Sampurasun
+
 Halo semua
 
 Saya Dwi Aji Ramdhani, tapi biasa dipanggil Aji. Saya sekarang sedang mencoba untuk menjadi developer program.
